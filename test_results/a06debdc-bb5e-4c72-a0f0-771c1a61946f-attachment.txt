@@ -1,0 +1,16 @@
+Enter system
+Start test
+Current url https://sfront.nuxbet.com/
+Click LogIn header menu
+Input User name
+Input User name
+Click LogIn pop-up button
+Good value world - Play now
+Click Deposit in header menu
+Click manual button
+Input amount
+Input wallet_id
+Input transaction_id
+Click continue button
+Finish test
+Exit system

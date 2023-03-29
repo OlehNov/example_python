@@ -1,0 +1,11 @@
+
+-----
+Test: test_payment_action.py::test_manual_deposit (call)
+Start time: 2023-02-26 13:06:54.892782
+Start name method: authorization
+
+End time: 2023-02-26 13:06:57.661372
+End name method: authorization
+URL: https://sfront.nuxbet.com/
+
+-----

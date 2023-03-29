@@ -1,0 +1,12 @@
+
+-----
+Test: None
+Start time: 2023-03-03 12:51:20.129297
+Start name method: authorization
+
+
+-----
+Test: tests/test_open_page.py::test_user_login (call)
+Start time: 2023-03-03 12:51:29.943047
+Start name method: authorization
+

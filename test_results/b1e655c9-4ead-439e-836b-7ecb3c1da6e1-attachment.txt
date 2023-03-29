@@ -1,0 +1,5 @@
+Enter system
+Start test
+Current url https://sfront.nuxbet.com/
+Finish test
+Exit system
